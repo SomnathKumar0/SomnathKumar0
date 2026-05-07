@@ -7,6 +7,4 @@
 
 🌱 Currently learning C++, DSA, and development basics
 
-🚀 Goal: Internship / Freelancing by 2nd Year
-
 📈 Building skills through consistent practice
