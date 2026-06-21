@@ -8,10 +8,10 @@
 
 # Hi, I'm Somnath 👋
 
-🎓 BTech CSE Student from Bihar, India<br>
-💻 Focused on coding, problem solving, and growth<br>
-🌱 Currently learning C++, DSA, and development basics<br>
-📈 Building skills through consistent practice
+•🎓 BTech CSE Student from Bihar, India.<br>
+•💻 Focused on coding, problem solving, and growth.<br>
+•🌱 Currently learning C++, DSA, and development basics.<br>
+•📈 Building skills through consistent practice.
 
 ## 🛠️ Languages & Tools
 
